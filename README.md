@@ -1,2 +1,6 @@
-# java-multi-release-jar
-Java Multi-Release Jar Files
+# Java Multi-Release Jar Files
+
+
+## Ref
+* https://www.baeldung.com/java-multi-release-jar
+* https://www.baeldung.com/maven-multi-release-jars
